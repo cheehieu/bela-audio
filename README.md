@@ -3,6 +3,15 @@
 # Ideas
 - 
 
+
+# Hardware
+- https://github.com/BelaPlatform/bela-hardware
+- 
+
+# Software
+- 
+
+
 # Resources
 - https://bela.io/resources
 - https://github.com/BelaPlatform/bela-online-course
